@@ -1,0 +1,8 @@
+[2025-11-13 20:45:49] Starting to analyze text files...src/main/java/data/input.txt
+[2025-11-13 20:45:49] File: src/main/java/data/input.txt
+[2025-11-13 20:45:49] File: results/result_20251113_204549.txt
+[2025-11-13 20:45:49] File: results/result_20251113_204549.ser
+[2025-11-13 20:45:49] Finished analyzing text files...src/main/java/data/input.txt
+[2025-11-13 20:47:36] Starting to analyze text files...src/main/java/data/input.txt
+[2025-11-13 20:47:36] File not found: src/main/java/data/input.txt
+[2025-11-13 20:47:36] Error reading file: null

@@ -1,0 +1,8 @@
+
+=== Text Report ===
+Lines: 9928
+Words: 77611
+Chars(with spaces):  461731
+Chars(no spaces): 378623
+Most common: de
+Avg word length: 4,88
